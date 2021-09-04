@@ -1,3 +1,3 @@
 # flaskListaCompras
 
-Api não está funcionando
+Api não está funcionando mais.
