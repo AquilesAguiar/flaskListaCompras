@@ -3,21 +3,6 @@ import requests
 
 app = Flask(__name__)
 
-
-# listaCompras = {
-#     0:['Abobora','43,43','https://st.depositphotos.com/1011268/1307/i/600/depositphotos_13077441-stock-photo-pumpkin.jpg'],
-#     1:[],
-#     2:[],
-#     3:[],
-#     4:[],
-#     5:[],
-#     6:[],
-#     7:[],
-#     8:[],
-#     9:[],
-
-# }
-
 url = 'http://6b0b-35-185-107-52.ngrok.io/'
 
 @app.route('/')
